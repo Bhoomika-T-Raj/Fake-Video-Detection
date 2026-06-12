@@ -30,7 +30,7 @@ An AI-powered deepfake detection application using deep learning and Streamlit. 
 
  Setup Instructions
 
-1. Clone the repository**
+1. Clone the repository
 
 git clone https://github.com/Bhoomika-T-Raj/Fake-Video-Detection.git
 cd Fake-Video-Detection
