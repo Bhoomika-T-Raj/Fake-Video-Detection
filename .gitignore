@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+
+# ML Models & Datasets (too large)
+*.keras
+*.h5
+*.pkl
+*.model
+Dataset/
+testing_videos/
+*.zip
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Node
+node_modules/
+package-lock.json
+
+# System
+.DS_Store
+Thumbs.db
